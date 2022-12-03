@@ -1,0 +1,121 @@
+<html>
+	<head>
+		<title>MegaDoge.Org</title>
+		
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+		<style type="text/css">
+			body{
+				font-family:Calibri;
+			}
+			header{
+				position:fixed;
+				background-color:white;
+				height:25px;
+				width:100%;
+				z-index:99;
+				margin:0;
+				top:0;
+				left:0;
+				text-align:center;
+			}
+			header span{
+				margin-left:20px;
+			}
+			header span a{
+				margin-left:15px;
+			}
+			iframe{
+				width:100%;
+				height:40px;
+				margin:none;
+				padding:none;
+				border:none;
+				background-color: rgba(200,200,0,.85);
+			}
+
+			iframe.full_iframe{
+				border:none;
+				/*position:relative;
+				top:20px;
+				*/
+				position:absolute;
+				left:0;
+				width:100%;
+				min-height:2000px;
+				margin:none;
+				padding-left:none;
+				padding-right:none;
+				padding-bottom:100px;
+				background-color: rgba(0,0,55,.85);
+			}
+			main{
+				padding:none;
+				margin:none;
+			}
+			.externalLinkIcon{
+				width:12px;
+				position:relative;
+				top:2px;
+			}
+			footer{
+				position:fixed;
+				bottom:0;
+				left:0;
+				text-align:center;
+				padding-top:15px;
+				/*padding-bottom:15px;*/
+				margin:0;
+				/*background-color: rgba(0,0,55,.85);*/
+				width:100%;
+			}
+			footer a{
+				margin-left:25px;
+			}
+			#closeFooter{
+				background-color: rgba(200,200,0,.85);
+				border:1px solid rgba(0,0,55,.85);
+				visibility:hidden;
+			}
+			footer:hover button#closeFooter{
+				visibility:visible;
+			}
+			.buttonHolder{
+				position:absolute;
+			}
+			#closeHeader{
+				background-color: rgba(200,200,0,.85);
+				border:1px solid rgba(0,0,55,.85);
+				visibility:hidden;			
+			}
+			header:hover button#closeHeader{
+				visibility:visible;
+			}
+		</style>
+		<script>
+			if(location.protocol == "http"){
+				location.href = "https://megadoge.org";
+			}
+			
+			function hideElement(name){
+				var element = document.getElementsByTagName(name)[0];
+				element.parentNode.removeChild(element);
+			}
+		</script>
+	</head>
+	<body>
+		<input type="hidden" value="ipfs_linker.json" id="ipfs_linker"/>
+		<header>
+			<span class="buttonHolder" style="right:45px;top:5px;"><button id="closeHeader" onclick="hideElement('header');">&#10006;</button></span>
+			<iframe id="topNav" src="topNav.html" /></iframe>	
+		</header>
+		
+		<main>
+			<iframe id="mainContent" src="intro.html" class="full_iframe" name="main"></iframe>
+		</main>
+		
+		<footer>				
+			<span class="buttonHolder" style="right:30px;top:22px;"><button id="closeFooter" onclick="hideElement('footer');">&#10006;</button></span>
+			<iframe id="bottomNav" src="bottomNav.html" /></iframe>
+		</footer>
+	</body>
+</html>

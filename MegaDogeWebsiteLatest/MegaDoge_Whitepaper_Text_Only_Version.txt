@@ -1,0 +1,395 @@
+- Doggie Paper -
+by Saint Shiba
+	
+Over 1 Million Holders!
+Market Cap has room for Growth! 
+
+“Be a free thinker and don’t accept everything you hear as truth. Be critical and evaluate what you believe in.” – Aristotle
+
+PLEASE send any inquires, questions, and comments to: moonlightbreeze@protonmail.com. Thank you.
+
+    • New Additions to MegaDoge.Org
+    • Upcoming NFTAirDrop for MegaDoge Owners (details below)
+    • prophecycoin.crypto  (gamified token forecasts)
+    • tokenology.blockchain (peer review of tokens and contracts)
+    • megadoge.blockchain (cross-chain wrapper + upgrade)
+    • Resistant to Crypto Winter
+	It has grown 3x during crypto winter and is up over 100x in recent history. It is a year old and keeps finding new All-Time-Highs. Room for 1000x+ growth!
+
+This paper represents a desired plan and guide for developing the project. The details may change. I make absolutely no guarantees that these things will come to be. Will they be implemented? Nobody knows. I sincerely hope MegaDoge.Org moons, though.
+
+Introduction
+MegaDoge.Org is an experimental token that seeks to apply cutting edge DeFi ideas in a low-risk manner. It is already a year old and is regularly hitting new All-Time-Highs. MegaDoge.Org tokens (symbol: MegaDoge) were minted only once to make a grand total supply of 2,000,000,000 tokens. The MegaDoge supply will never grow, but it can shrink over time. The token has 18 decimals and can be found on arken.finance, paraswap.io, quickswap, apeswap, sushiswap and more. The token itself has no built-in fee. Half of all tokens minted were locked into DEXs in the form of liquidity. The other half was airdropped to over 1 MILLION active accounts. Users were discovered from many different chains, including mainnet, polygon, bsc, phantom, and huboi. All were given anywhere from 500-3000 tokens (random). No favoritism was shown nor was any bias of any kind ever given. The only requirement was that the user was active recently, trading any of the top tokens (i.e. usdc, wbtc, weth, etc.). The amount they traded did not matter. Over two hundred of the most liquid tokens were scanned for. 
+So far, the MegaDoge experiment has excelled. The MegeDoge chart has already rocketed into an exponential growth curve. At the time of writing this, MegaDoge.Org is already up 100x! The market cap has much room for growth. MegaDoge.Org can grow 10,000x and still have a market cap that is about 20% of Dogecoin. In order for everyone who received at least 1,000 MegaDoge to be millionaires, MegaDoge would need to be the size of Apple, where 1 MegaDoge = $1000.
+It cannot be emphasized enough that MegaDoge is a decentralized community and is permissionless by design. This means anyone and everyone can participate. At any time, the project may fork into new projects, all built upon MegaDoge and to the benefit of the MegaDoge community. This is encouraged. The first generation of The MegaDoge DAO will fund and reward new developments to the project AFTER they have been completed and presented. After-the-fact fact funding allows developers to prove themselves beforehand. Tangible proof provides the DAO a means to measure and inspect the final project before committing to it. This process can haze and vet developers and allow the DAO to buy or subscribe to a tangible product or service created for the DAO instead of wasting resources buying promises. This method empowers individuals and groups to independently develop their projects without being managed by a crowd of inexperienced, less knowledgeable individuals who may not be as passionate about the project as the developers. Developers will only do what they are comfortable with and need no permission or approval to proceed. Popular content will be rewarded and integrated into future projects to the benefit of all.
+
+
+Where to Buy
+    1. swap.Arken.finance
+    2. QuickSwap 
+    3. ApeSwap 
+    4. SushiSwap
+    5. ParaSwap.io
+    6. 1InchExchange
+
+
+
+Recommended Stack
+    • Brave web browser enables easy access to crypto domains
+    • Metamask allows convenience and security.
+    • Arken provides a quick snapshot of the token with a place to buy.
+      
+“On the internet, nobody knows you’re a dog” 
+– Peter Steiner from The New Yorker
+How many 0’s can MegaDoge eat? Will it reach $1? How about $10?
+
+🔥 MegaDoge price chart  🔥
+source
+Fun fact: If MegaDoge had the market cap of Shiba Inu at the time of this writing, each MegaDoge token would be worth approximately $13.50. Please HODL your tokens if you were fortunate enough to be one of the million accounts that got some for free.
+
+
+New! NFTAirDrop!! 🚁
+Project Name: TBD, Token Symbol: TBD
+10,000 Unique NFTs
+          MegaDoge.Org now has it’s own NFT! 
+          
+          Users who own at least 100,000 MegaDoge by a secret mystery date will be rewarded 1-10 NFTs! Are you lucky? 
+          
+          There are 10,000 Unique NFTs. Each one has a unique picture and profile. All pictures differ from each other in a significant way. Some are rarer than others, and they each have their own personal stats. 
+
+
+Customize, Enhance, and Flip!
+                    
+              
+Upgradable, Customize and Flip 💰
+
+          These NFTs are upgradable. You can train you pet dog, spoil them, play games with them, and more. You can level up your dog and the progress is permanent, passed on to the next owner. Flip them on OpenSea.IO and make money.
+
+
+
+
+
+Outline for Upcoming Projects
+
+Each project will be used to synergistically support each other for a powerful network effect. Most will provide their own token which will periodically be used to buy up other tokens in the network to pair them up as liquidity and to lock it in permanently. This is an anti-rug pull feature and generally helps each token succeed.
+      
+      Governance
+        ◦ Control of Content and Navigation on the website
+        ◦ Validator service for security and legal concerns
+        ◦ Badged members to fulfill specific roles
+        ◦ Voting power derived from NFTs held
+      
+      Games
+        ◦ Directly applies and integrates MegaDoge-based tokens and NFTs
+        ◦ Seeks to be a platform for game developers to release free games
+            ▪ Creators are paid from advertisements and premium add-ons
+            ▪ In game purchases and upgrades are facilitated with MegaDoge and related tokens
+
+      Tokenology
+        ◦ Convenient and brief synopsis on any token on the blockchain based on its contract address and chain. Included in the synopsis is the standard details for the token, project information, estimated risk, profit potential and more. It is controllable by anyone who has staked coins in the token or in Tokenology or owns a MegaDoge based NFT. Tokenology will also provide confidence ratings and whether or not validators believe it to be scam or not. Anyone can incentivize validators to provide answers by offering a bounty to pay them with.
+        ◦ This project was inspired entirely by the fact none of the blockchain explorers will not post the MegaDoge logo or url of any of my projects, no matter how many times I have asked them to. Instead of listing the actual dollar value of the coin, they post a misleading $0.000000000 value next to the coin. This is not true, the coin’s value can be tracked here: https://swap.arken.finance/tokens/polygon/0xcbf4ab00b6aa19b4d5d29c7c3508b393a1c01fe3 and here: https://polygon.poocoin.app/tokens/0xcbf4ab00b6aa19b4d5d29c7c3508b393a1c01fe3. Sadly, I catch them posting logos of every scam project instantly (before the coin is officially launched) along with the urls, straight to the scripts that ask for your permission to spend ∞ amount of your coins. After a year, they still have not posted the logo for MegaDoge. This presentation of MegaDoge instantly turns off many users, but as you can see, nonetheless, it is constantly brimming with transactions, everyday. 
+
+      Ads – get paid to view in crypto
+        ◦ Auction-based full-page iframe based views
+        ◦ Viewers get paid in crypto of their choice
+        ◦ Payment split 50-50 between users and MegaDoge
+            ▪ Excess is used to obtain liquidity to plant in leading DEXs
+        ◦ Project pending legal and security concerns
+      
+      Decentralized Exchange (DEX) AGGREGATOR
+        ◦ The DEX token will automatically produce liquidity for project tokens
+        ◦ Holders of Dogmatic Tokens will receive a discount on trading fees
+        ◦ DEX aggregates liquidity from many DEXs, provides best trades for your target volume
+        ◦ Cross-Chain
+      
+      Cross Chain Bridge
+        ◦ Standardized validator service
+        ◦ Will support Polygon, Ethereum Mainnet, Binance Smart Chain, Fantom, Huboi, Secret Network, and potentially Bitcoin
+        ◦ Automatic arbitrage
+      
+      Standardized Validator Service
+        ◦ Anyone can mine validation requests and get paid for it in various commission tokens
+        ◦ Web-based (web3 interface), and opensource software for intensive automated tasks
+        ◦ Users are incentivized to participate and to be honest and as accurate as possible
+        ◦ Generic, cross-chain msg service, auction based
+        ◦ NFT based non-transferable badges
+            ▪ Can issue NFT badges under their own authority
+      
+      Paid Q&A
+        ◦ Answers complex questions as an on-chain oracle service
+        ◦ Paid Q&A, answers paid questions about future events for prediction, also answers present and past events as an oracle service
+        ◦ Reputation (for important oracles) and stake based (general validation), with third-party participants allowed to participate by staking any token or asset (no affiliation required) for an outside vote
+        ◦ Powers group-based price prediction, buy / hold / sell ratings, and moonshot predictions.
+          
+
+
+
+
+
+
+
+
+E Pluribus Canis
+In Doge we trust.
+
+Higher Order Tokens (Hot!)
+MegaDoge.Org is the primary ingredient required to mint higher order tokens. Dogmatic Tokens can only be minted by wrapping pairs like MegaDoge and WMatic. In this context, a pair is a liquidity provider token that is minted by Uniswap-based DEXs upon providing liquidity for a given trading pair. Only select pairs can be wrapped to create Dogma. This is to ensure the value of Dogma will be secured and will resist inflation. Dogma itself will be wrappable likewise into a higher form, and it will give rise to Prophecy Coin. Prophecy Coin like its name suggests, is involved with forecasting the future success or failure of DEX listed moonshot tokens. Prophecy Coin itself will be wrappable for Tokenology, a decentralized, community driven token overview and analysis for any and all tokens on the blockchain, by contract address. Tokenology may also serve as a new token that will be for MegaDoge.Org's own DEX. Stakers of select MegaDoge.Org-based tokens (including NFTs) will be privy to a discount on trading fees.
+
+
+New!
+Token Name: Tokenology.Blockchain 🪙
+Token Symbol: tokenology
+Supply: Matches New Liquidity of ProphecyCoin.Crypto and MegaDoge.Org
+Digits: 18 
+
+ Upcoming Airdrop II 💸
+➳ For MegaDoge wallet’s that hold 1,000,000+ MegaDoge by an upcoming mystery date.
+➳ Special Features: Cross-Chain, On-Chain peer-reviewed profile and overview including discussion and details for any contract or token that tokenology holders choose to write about (any token holder can submit new data).
+
+Tokenology 
+The spirit of cryptocurrency is to empower individuals and bypass old-world financial tyranny. Core to this is the philosophy of decentralization. In the old-world, oligarchs would control everything and could at any time seize, freeze, manipulate, or deny any financial interest any individual may have. They could obscure fraud, deny and censor transactions, and do many things to force dependency on their power structures. Tokenology brings decentralized intelligence back to finance.
+Tokenology provides an open and decentralized mechanism to provide intelligence to investors and consumers on crypto related projects including, DeFi, tokens, and cryptocurrencies. Current services for providing detailed information on any given project are flawed because they are run by centralized companies who are physically unable to screen every project that exists. They tend to have a review process that is contingent upon self-serving rules for whether or not they will include any given project. This gives consumers and investors the illusion that if these centralized organizations do not know about or have not included any particular crypto project, it is because they don’t exist or they are scams. Tokenology solves this problem by allowing anyone to update the details of a token or DeFi project. The wallet used to create the token or smart contract will have control of their website url, coin logo, and project’s description. Until set by the original contract creator, these may be updated by any user. The name, symbol, and decimals will be obtained from the blockchain. The profile page will offer to advertise the underlying url and pay users for reviewing content and to post comments on the project. An advertiser must fund a campaign. Users will be paid from the funds to view and review the relevant content. The profile page for any crypto project will include comments and an assessment from the oracle for Prophecy Coin. Anyone can request an assessment by providing a bounty. The prophets of Prophecy Coin will earn a portion of the bounty upon completing a simple assessment proportional to their own stake. They would forecast the likelihood of the token becoming a ‘moonshot’ token that would successfully multiply in value in the future. For example, the outcome may be a 100x prediction or 0x, with the former indicating 100 times more valuable in the future and the latter indicating an approximate loss of all funds. They would also assess whether or not they believe or forecast the project to be a scam. Lastly, they will also produce a score that indicates risk in terms of security and overall risk for anything significant that could go wrong. Prophecy Coin is rewarded to the most accurate predictors.
+
+“Give a dog a good name, and he’ll live up to it” from Dale Carnegie’s book, How to Win Friends & Influence People
+
+♈♉♊♋♌♍♎♏♐♑♒♓⚖
+New!  						
+Token Name: ProphecyCoin.Crypto  
+Token Symbol: prophecy 
+Supply: Matches New Liquidity of MegaDoge
+Digits: 18 
+
+
+Upcoming Airdrop III 💸
+	ProphecyCoin will be airdropped into all wallets holding a million MegaDoge or more if held on an upcoming mystery date!
+
+
+What is ProphecyCoin? 
+	Crowd-sourced Price Prediction, Risk Assessment, and Long-Term Forecasts as an On-Chain Oracle Service.
+
+Special Features 
+	Cross-Chain, future value based liquidity maximizer, mineable by users,  open sourced predictions and more. 
+Make your own luck 🍀 with copy-trading,  copy the top 1%.
+
+Here is the initial Draft (design is likely to change):
+
+Prophecy Coin 
+Prophecy Coin is the moonshot crowd-sourced prediction service that produces intelligent forecasts to investors free of charge. Forecasts are indicators derived from an aggregate of sources, each represented by Prophets and Prophetesses. Once a token or smart contract is nominated for review, members are incentivized to rate it. The most accurate among them will have their stake multiplied. The token has both inflationary and deflationary components. The most powerful moonshot predictions will be obtained autonomously and paired up with Prophecy Coin. 
+Liquidity pools that are paired with Prophecy Coin will have their Prophecy Coin burned or increased. If a token receives an F-, up to 99.99% of the Prophecy Coin component will be burned. Arbitrageurs will predictably and reliably rebalance the pools. They will buy Prophecy Coin elsewhere and sell it for the failing coin, likely to sell it off instantly as well. For tokens that receive an A+, they will have their supply of Prophecy Coin increased by up to 50% of the amount that was burned in the failing pools. B’s will be burned up to 25%, C’s will be burned up to 50%, and D’s will be burned up to 75%. F’s will be burned as much as 99.99%. Anyone will be able to trigger a transfer receiving 1% of the burned tokens as remints each time a redistribution occurs. To be valid, one pool must be an ‘A’ and the other pool must be less than ‘A’. They can be triggered as many times and as often as the user chooses. The modifications will result in a transference of power from the lesser coins to the best coins. Since more coins are burned than minted, the net supply change will result in a reduction of coins. A new incentive to create more Prophecy Coin is then created.
+Any above average stake holder of Prophecy Coin can nominate a new token or contract to forecast on. This marks the token as being recommended for review, making it more likely to be reviewed by users. Inquisitive consumers may produce a bounty to pay the prophets and prophetesses of Prophecy Coin to produce ratings for the token of their choice, to both expedite the process and to provide maximum coverage. 
+The first bounty is an upfront reward forecasters and predictors receive for providing ratings. This is to rapidly obtain feedback for a candidate token. The bounty is paid out to forecasters proportional to how much they have staked. After the lock-in period, the period for which the token is being forecast, the actual results will be used to determine how much of the second bounty is received by the prophet. If their answer is too far from the correct answer, it is forfeit. They lose the reward for failing to be correct but do not lose their stake. This method of rewarding and incentivizing accuracy avoids the legal complications that have stalled prediction markets for decades. 
+Prophets will also receive a small payment up front that is instantly theirs to spend or keep for sponsored tokens. Sponsors may require users to have a preexisting record of accuracy upfront before paying out the upfront bounty. This is intended to motivate action and offset the costs associated with time spent staking and reviewing items. Fresh Prophecy Coin will be minted and delivered to prophets as payment in an amount proportional to their stake.
+Prophets will rate items on a 4.0 scale. This is to simplify the process and to eliminate the most intimidating aspect of forecasting: the absurd expectation that an individual forecaster should be required to predict the future value of a variable with infinite precision. Otherwise, most feedback would be withheld and valued intelligence would be ignored. Most providers would find it too risky to stake their reputation on something too easily changed. Instead, prophets choose an integer score of 0 to 4, 0 being an F or failing grade, and 4 being an A or outstanding grade. This scale removes the illusion consumers would have in a precise numeric score, if it were given, as if it were an absolute guarantee. They will know the predictions are not an infallible certainty but rather the best approximation the community can center on.
+Moonshot Score ❂
+For any rated token, three ratings are obtained. The first is the moonshot score. Predictors choose a letter grade to rate the moonshot potential. The scores will be averaged by weight and the average will be revealed. The five possible choices are explained in the following table:
+Letter Grade
+What it means
+A+ (4.0) 
+Strong moonshot candidate with predicted growth of over 100x.
+B (3.0)
+Growth of 10x to 100x of all funds invested is predicted.
+C (2.0)
+Growth of anywhere from 1x to 10x of all funds invested is predicted.
+D (1.0)
+Loss of up to half of all funds invested predicted.
+F (0.0)
+Loss of all or more than half of all funds invested predicted.
+
+Scam Detection Score 🚫
+	The second rating obtained is The Scam Detection Score. The Scam Detection Score is a simple rating that averages forecasters belief that the token is a scam currently or will become a scam that cheats users. The rating will be a letter grade from ‘A’ to ‘F’. Each forecaster will provide a score independently and they will all be averaged by weight and revealed.
+Grade
+What it means
+A+(4.0)
+Exceptional project, least likely to be a scam
+B (3.0)
+Not completely certain, but seems great and not likely to be a scam.
+C (2.0)
+Neutral, could be a scam, could be fine.
+D (1.0)
+Too uncertain, failing to seem legitimate, likely a scam.
+F (0.0)
+Strong belief that the item is a scam!
+
+Risk Assessment Score ⚠
+	The third rating is The Risk Assessment Score. The risk assessment score is an indicator that is intended to reveal the likelihood of a significant problem occurring that negatively affects users. This includes security holes, liability, overall risks, and anything that would pose a threat to users. Although the other indicators may have been true and very positive, they may fail to warn users of critical problems that could make their gains pointless. For example, a token could be banned for legal purposes. Then there is the possibility of unsafe projects leaking personal information of users causing them to be victims. Or perhaps vulnerabilities in the code are discovered by hackers. Some smart contracts have security holes in them that would result in the loss of user funds following an attack. Ideally, a risk assessment score would help identify such a contract as a high-risk item before an attack occurred. The Risk Assessment Score will be like the scam detection score, a weighted average of letter grade scores. 
+Grade
+What it means
+A+ (4.0)
+Safest; Minimal Risk
+B (3.0)
+Low Risk
+C (2.0)
+Medium Risk
+D (1.0)
+High Risk
+F (0.0)
+Unsafe! Maximum Risk
+
+In order to earn a reward for their accurate predictions, users must first stake Prophecy Coin. If they are wrong in their predictions, they lose nothing, only time. If they are right, they are privy to rewards in Prophecy Coin. Initially, predictions will be given as weighted averages based on how much is staked. This is to disincentivize and disempower spam-like predictions where, for example, a bot submits every possible rating for any given token across multiple accounts to game the system. 
+Compensation and Incentives
+Users are awarded +25% of their stake upfront upon completion of rating 100 candidate tokens. The stake is released to them right away. After the period of time has ended, the results are determined. For every answer they chose, they are awarded +1% of their stake (not compounded) if they are in the top 50% bracket. If they are in the top 10% bracket, they are awarded +2%. The top 1% bracket is awarded +3%. They must dedicate a portion of their stake to the moonshots that they are most confident about. During this scoring phase, the bonus awards are based only on the original stake at the beginning of the cycle, not compounded. They can dedicate all of their stake to a moonshot if they believe in it most strongly. If they are correct with their moonshot prediction, their dedicated stake is multiplied by (3+1) for top 50%, (3+2) for top 10%, and (3+3) for the top 1% overall brackets. All other brackets will have a multiplier of 3. This applies only to dedicated stake where the dedication was towards a winning candidate. This means forecasters can only dedicate stake when they rate a candidate as an A+ for the moonshot score.
+Judgement Day
+	Judgement Day is the day at which the prediction applies to. When asked to forecast a candidate, it will be for a period of time expiring precisely on a given date at a given time. At this time the answer will be determined in a similar manner, not forecasting for the future, but answering for present state. At that time, the price will be known. Either a price oracle will be used or the crowd will indicate what the correct answer was. The crowd will indicate if they believe it was a scam and what the risk was in terms of what actually happened. Let’s say a predictor chose ‘A’ (4.0) for the moonshot score. If it is determined on Judgement Day the answer was (3.5), anyone who guessed ‘A’ or ‘B’ would be close enough to be counted as having the right answer. Otherwise, an answer of (3.6) would only include users who predicted ‘A’. The stats for the predictors will be determined at this point. If an item is determined to be a scam, with a score of less than ‘C’, then the moonshot score and the risk score don’t matter. They don’t apply to the predictors’ stats, because it is manipulated anyway.
+Wisdom of the Crowd
+	The wisdom of the crowd is a stunning phenomenon where people from diverse backgrounds combine their guesses to accurately infer a hidden variable within 0.1% accuracy with minimal knowledge of the variable to be guessed. Take for example, guessing the number of jellybeans in a large glass jar. A documented experiment demonstrated that 160 people giving their own guess for the total number of jellybeans in a jar made an average guess of 4,514 jellybeans. The answer was within 0.1%. The correct answer was 4,510. While any one individual might have been off by a large margin, when averaged out, the collective wisdom of the crowd did shine.
+Built on top of Dogma and therefore MegaDoge
+	Prophecy Coin can only be minted by wrapping Dogma and WMatic and other pairs. Anytime a token from a higher order is minted, it requires possession of the underlying tokens. The underlying tokens need to be bought up at some point and wrapped (locked into liquidity forever). This permanently benefits the underlying tokens.
+Moonshot: Autonomous Fund to Buy Moonshots
+	Lastly, Prophecy Coin will lead an autonomous fund that will convert related token fees into those moonshot tokens. The moonshot tokens will then be locked into a timelocked smartcontract that will be released after the period for which they were forecasting, i.e. one year. An optimum percentage of the tokens will then be used to buy back the MegaDoge tokens. The MegaDoge tokens then may be gifted appropriately or used to fund the MegaDoge DAO. The rest of the unsold tokens will be the property of the holders of a higher order token that is built upon Prophecy Coin. 
+The supply of Prophecy Coin is dynamic. It can be minted and burned through fees. The tokens are minted in two different ways. The first way is through forecasting. Users stake their Prophecy Coin and offer predictions. New coins are minted to pay bounties, which are rewards for making those predictions. The coins are also minted whenever users permanently lock desired liquidity pairs for supported DEXs. Initially, liquidity pairs will be based on Dogma, MegaDoge, Matic, Weth, Tokenology, and top tokens. Minting will later come from forecasted moonshots paired up with Prophecy Coin. The minting rate will increase or decrease according to the predicted future importance of moonshots. Given that the token supply increases, inflation naturally occurs. The total supply will deflate through fee burning. Buying, selling, and transferring Prophecy Coins will invoke a fee, but staking and unstaking will not.
+A third of the token fee will be burned. The rest will be permanently locked into liquidity. Of which, half will go towards purchasing strategic tokens, including predicted moonshot tokens, then wrapped up with the remaining amount and planted in liquidity pairs. 
+A quarter of the fees is used to buy up the top predicted moonshots. Another quarter is then wrapped with the moonshot tokens. A third quarter will be given as payment to prophets up front and the last quarter is paid out as bounties. If the price of the moonshot token gains significantly, the prophecy coins will aggregate in the pair contract, creating a scarcity elsewhere. The moonshot token will diminish in supply. If there are multiple moonshots, much pressure will exist to mint more prophecy coins or to obtain them. Prophecy Coins will be paired with MegaDoge and Dogma.
+
+♈♉♊♋♌♍♎♏♐♑♒♓⚖
+
+Instantaneous Cross-Chain Bridge (Pending, details may change)
+After great dissatisfaction with existing cross-chain bridges, MegaDoge.Org will create its own. Current bridges are either overly expensive or mind-numbingly slow. They are complicated and too difficult to use for many users. They often involve a multistep process for users that can span hours. It would seem that all of these steps … Yet there is a fatal flaw in nearly all implementations. The problem is that these bridges require the user to already be established on the other chain. The bridges fail to give the user the gas token for the chain that they transfer too. Even if they choose Ethereum for an Ethereum-based chain, they get wrapped Ethereum, and not the chain’s native token. The solution created here is unique and superior to any bridges that exist currently.
+The Solution
+	Users will be able to transfer tokens while receiving the other chain’s native utility token with a single transaction. They will not need to pull or verify funds on the other side. How can this be? When a user submits a request to send tokens to a specific chain an arbitrage opportunity comes into existence for workers and bots. They are able to see the job exists, the complete request, and distribute their own funds at the time of the request. They have no reason to stake funds up front and this will be a more attractive option for workers compared to all other bridges. They distribute a fair amount of the utility token to the target address and the rest in the requested token. Meanwhile, on the original chain, validators stake Dogma and vote on the worker who fulfilled the task. Validators who chose an answer that is later accepted as the correct answer receive status points and a commission from the fee the user pays. Anyone who voted contrary to the winning vote, loses their stake. Their stake is split three ways – a third goes to the validators, a third goes to the winning worker, and the last part is burned. The winning worker is awarded the base amount the customer paid plus half of the commission. The other half is split, fifty percent to the validators who formed the winning vote, the rest is used to buy Dogma and produce liquidity.
+Voting Window
+	The target time period for open voting for validators is thirty minutes. The final answer is expected to be determined in the first fifteen minutes by validators. Any vote that changes the answer that was determined in the first fifteen minutes in the last fifteen minutes for even just a moment triggers an automatic dispute to be resolved by the voting authority of The MegaDoge DAO. If no validators voted in the first thirty minutes, a new window opens and the process restarts. The customer will be able to obtain a refund if funds did not transfer within 12 hours. Ideally, this would never happen and all transfers should occur within seconds. 
+Dispute Resolution
+The MegaDoge DAO will have 24 hours to resolve any dispute that is raised. When a dispute is raised, validators lose the user-paid commission for the round, but the new winning validators obtain the losing validators stake. The commission is reserved for the dispute resolution process and paid out to voters of the MegaDoge DAO depending on their authority if they vote. If no dispute is raised, workers and validators are paid at the end of the thirty-minute period. The customer has instant gratification and benefits instantly, being the first of all to have funds released. The workers have near-instant gratification unless there is a dispute, then they must wait an additional 24 hours.
+The Fee
+	The user is required to pay the base amount expected to transfer over plus a fee of 2.5% to 5%. They will be given the cheaper rate if they have a stake of Dogma time locked in the MegaDoge DAO. All fees are paid in Dogma. If the customer has no Dogma, it is purchased for them from the funds they provide. The convenience of conversion carries an additional fee of .5%.
+Efficient System
+	The most capable and sophisticated workers will be able to autonomously vote, with fine-tuned algorithms programmatically validating work within seconds of it being completed. Thirty minutes is an enormous period of time for the most able voters to vote. The block of time is left for sanity checks from anyone who is able to spot an error. The time allotted is sufficient for them to acquire additional Dogma to increase their stake and therefore voting power. If they are able to change the net vote in the last fifteen minutes, a dispute is raised and carried over to the MegaDoge DAO.
+Insurance
+	Users who wish for additional safety may use escrow and pay an additional 5% fee that is refunded 90% when they confirm they have received funds on the other end. The escrow amount is withheld from the winning worker and validators for up to 72 hours. If the user confirms delivery, then it will be released. The workers will be informed upfront if the transaction type is escrow based. The customer has a right to dispute a transaction for up to 72 hours. If a customer fails to dispute the transaction and fails to confirm the transaction within that period, the additional fee is not refunded but split between a reserve, winning validators and the winning worker. In the case that the customer disputes a transaction, a dispute is raised, to be resolved by The MegaDoge DAO within 24 hours. If the MegaDoge DAO confirms that the user did not receive payment on the other chain, everything deposited by the customer is refunded. All stake from any validators who voted before the dispute resolution process is taken away from them. The stake is then split between voters resolving the dispute in the MegaDoge DAO and a reserve.
+
+Shiba Inu, Destroyer of Cookies
+
+
+Governance DAO
+Goals of the DAO
+    1. Autonomously organize and maintain the project and future projects
+    2. Innovate and build indefinitely
+    3. Benefit all stakeholders
+    4. Reward developers, creators, active users, whales, and syndicated projects
+    5. Decentralize control and development 
+    6. Attract new users to MegaDoge and syndicated projects
+    7. Maintain an open, peaceful, and friendly atmosphere not hostile or alienating to anyone
+
+Governance (Details may change)
+	The MegaDoge community will control the project from the MegaDoge DAO. Through the interface, any user can submit proposals and the community can act on it. Users will need to have dogmatic tokens staked or an NFT in a time locked contract for voting power. The longer the duration, locked for, the more voting power each individual unit conveys to the user. The voting benefits of time locking are gained instantly, simply for making the commitment. Additionally, users can lock MegaDoge tokens to multiply their voting power in a similar time locked contract, but Dogma is required. Time locking tokens will help the community hold the tokens for the long term and benefit MegaDoge overall. Rewards may be built in for staking into the time locked contracts in addition to the voting power gained. Time locks will also help individuals who are committing to holding for the long term but know they lack the discipline to do so. Time lock terms will be for 7 days, 30 days, 90 days, 180 days, and 270 days. Once time locked, tokens cannot be removed until after the period of time chosen.
+	User generated higher order tokens built upon MegaDoge tokens will be advertised free of charge between paid advertisements. These advertisements will not require feedback from viewers and viewers will not get paid to view them. Tokens that are whitelisted by the MegaDoge DAO will gain a permanent home on MegaDoge.Org inserted appropriately as content with the help of html iframes. The content section of many areas of the MegaDoge.Org website will be controlled entirely by the MegaDoge DAO. Voters will propose and select URLs of content they choose to place on the website and in the most permissionless, decentralized manner, it will be automatically injected into the website. Once a popular template is established, every aspect of the website will be directly controllable from the MegaDoge DAO and its rulings will automatically be executed by smart contract. The domain name will be registered for 10 years at a time. If an adequate domain name service provider is capable of accepting payments from a smart contract and the service is capable of allowing a smart contract to control its DNS settings, then the domain name can be transferred to the service and full control would be handed over to the MegaDoge DAO. The website is currently hosted in the deep web thanks to IPFS. No centralized server is necessary. Pinning the website hash is all that is necessary to maintain the files and speed of delivery indefinitely. For technical, economic, and security-based reasons, only IPFS content hashes will be allowed at this time for primary content iframes.
+The MegaDoge DAO will only be allowed to set primary MegaDoge.Org website content. The DAO must approve IPFS hash addresses (if changing default content), which are to be inserted into MegaDoge.Org via html iframes. The reason for this is technical, economic, to enforce immutability, to prevent unapproved changes, and for security purposes. Once an IPFS page is created, it is highly recommended that the hash is pinned as many times as possible, but at least three times on reliable systems such as pinata. Primary content includes the site’s navigation (top content bar), the site’s footer, and several core content pages. Non-primary content can be managed by independent parties using any type of technology.
+Security
+	Security is so integral to the governance and the user experience that every website altering submission to the MegaDoge DAO will be screened. What good would a flashy new interface do if it robbed users with a web3 exploit? To stop such a thing, security will be sourced to the MegaDoge oracle, the on-chain service powered by the prophets of Prophecy Coin. They will be paid a bounty, distributed by stake, for rating the security and overall risk of the submission. If the score is not passing, then the proposition will automatically fail, no matter how much it is positively favored by voters.
+	Bounty will be seeded from the MegaDoge Treasury. Additional funds may be volunteered by users. To begin a proposition, a user will submit it and it will instantly be viewable by all users. If it involves a modification to the website, it must be passed first with users and then funds will be disbursed to pay for the on-chain oracle. If it passes, additional funds will be disbursed to the original user who promoted the change, as payment.
+Technical Details
+	The domain name will reference a single IPFS page hosted with filecoin. The page will contain bare-bones html that hosts a web3 script needed to fetch HTML content from the blockchain. It will invoke a public view function on the smart contract used to automatically enforce MegaDoge DAO decisions. In this use-case, the blockchain serves as a convenient yet reliable content database that is locked and cannot be modified by anyone in particular. It can however, be modified to make authorized changes by the MegaDoge DAO smart contract. Such modifications require collective action, either through active participation or from the lack thereof. By abstaining and doing nothing, users passively delegate the decision making to others. All contracts will be open-source and published in the open.
+	The html content fetched from the blockchain should be as simple as can be, and include only necessary content. The initial content will be set to the main template, which will contain minimal scripts, and will divide the page into HTML iframes. The URL source for each iframe for the primary page will reference IPFS content-addressed pages and content. The future content retrieved may include a single iframe that points to the latest IPFS page for the project as selected by the community. Doing this will eliminate the great inconvenience of changing the domain’s DNS settings to reflect the change of all URLS in the IPFS Merkle tree. It will also push updates instantly without needing to reset and resolve global DNS servers beforehand, which can take up to 48 hours to process.
+
+“You mean to tell me you invested all your money in a coin because there was a dog on the front?”
+
+Social Content
+	Dogmatic tokens are used for determining importance of user-submitted content. More important items are ranked at the top of the list for its subject. Anyone with dogma can submit a link and a paragraph description of the link. Alternatively, they could post a picture or video. The initial score depends on how much dogma the user has staked. Anyone can vote up or down the item and the impact depends on their staking period. The longer they have time locked their dogma, the greater their voting power is. Alternatively, users can power vote, where they have 1000 times more voting power, but it is one time only, for the item being voted on, and it permanently gifts the base Dogma to the poster. They cannot gift time locked dogma. The user who posted the item gets 90% of the fees (including gifts) generated from their post. The rest is sent to the MegaDogeFund. The MegaDogeFund will be used to fund future governance functions. The goal is to decentralize the growth, maintenance, and development of MegaDoge and its related tokens as soon as possible. With the governance, anyone will be able to post any idea or proposition on anything, and, if popular, will automatically be funded from the treasury. 
+Dogmatic Tokens also carry a fee. Half of all dogma collected will be used to plant liquidity. The other half will be used to fund anything else. Of the first half, it will be used to obtain MegaDoge, Moonshot tokens, renDoge (Dogecoin), and syndicated tokens (including Prophecy Coin) as weighted by the MegaDoge DAO. All the newly aquired tokens will be paired up with an equal valued amount of Dogma and wrapped into liquidity. MegaDoge and renDoge will be a default pair and will both be acquired through Dogma and wrapped on a regular basis. This is to bridge Dogecoin to MegaDoge making it much cheaper for anyone to buy MegaDoge from outside of Polygon. Traditionally, a buyer will need to purchase Ethereum and then stake it to obtain Matic. This process is very expensive. Buying Dogecoin and then using the renBridge to get to Matic, users can then directly buy MegaDoge for less than 1% of the normal gas costs needed to use the Polygon Matic bridge for most transactions. That means more leftover for MegaDoge!
+
+Ways to Earn MegaDoge and Related Tokens
+	There are many ways to obtain MegaDoge. Regular users can view paid-to-view ads and obtain it. Savvy users may make predictions with Prophecy Coin and obtain it, which can be traded for MegaDoge. Certain competitions may exist where users are rewarded tokens. A social networking campaign is planned where users who promote MegaDoge or related tokens are rewarded with an airdrop of an appropriate number of the tokens. Dogmatic Tokens may be used as a reward or they may be automatically traded for MegaDoge to airdrop as a reward. Users can earn Dogma by working the Cross-Chain bridge or validating workers.
+
+Paid-to-view
+	Users may get paid to view ads in the cryptocurrency of their choice (if available on polygon). The native token used is Dogma but users can have it automatically traded to any other token for them. Advertisers pay a small fee per page view, which is then split 50-50. The price paid per page view is determined by auction, where the highest bidder has maximum priority. The user will be required to interact with the ad and spend at least 15 seconds on it (more if the advertiser is paying for more time). Half of the fee goes to the user interacting with the advertisement, the other half will be given to the MegaDoge DAO. In order to get paid for interacting with an ad, the user will need to vote on the ad, and provide feedback, spending a small amount of Matic, which will be reimbursed by the advertiser and a reward will also be given to the viewer. Advertisers will naturally bid more and more to dominate. This will ultimately benefit users the most.
+
+User Contributions
+	Anyone who wants to contribute to the project, can. If you post source code on a git-hub repository, I will use it. I won’t use it if it is not legal or contains an exploit or requires me to spend money.  Thanks.
+
+Chain Reactions
+The highest order tokens will put immense pressure on the lower order tokens and demand will issue down the ranks like the cracking of a whip (the invisible whip from the invisible hand from the invisible money from the imaginary dude). This invisible pressure will trickle down to the MegaDoge.Org roots and benefit the bottom level the most.
+
+7 Rules of MegaDoge.Org
+    1. Don’t Talk About Fight Club
+    2. Remember Rule #1
+    3. Buy MegaDoge
+    4. Hold on for Dear Life
+    5. Praise MegaDoge
+    6. Promote MegaDoge in Public at Least Once (like on twitter)
+    7. Tell All of Your Friends and Family to Buy MegaDoge
+       
+
+Roadmap
+QTR4 2022:
+	Finish WhitePaper
+	Complete NFTs
+	ProphecyCoin V1
+	Tokenology V1
+QTR1 – QTR4 2023:
+	Complete Validator Service
+	Complete MegaDoge DEX
+	Cross-Chain MegaDoge
+	Complete DAO
+	ProphecyCoin V2
+	Tokenology V2
+QTR2 2024:
+	Complete MegaDoge Game
+	Misc. Projects
+QTR3 2024:
+	Complete an Autonomous Fund that buys up moonshots predicted by Prophecy Coin
+	TBD
+
+This road map is a general plan and all tasks are intended to be completed by the end of the respective quarter. This does not exclude the possibility of completing the projects ahead of schedule. Progress will be both a product of community interest and time that becomes available to complete the tasks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ministerial Commitment
+The creator holds a special position of privilege, naturally, and not by hard-coded tricks or control mechanisms. Being situated in this natural position of influence for being a founder and having additional power for being an early adopter, the creator accepts responsibility for having control of such a sensitive position. For this reason, the creator pledges not to interfere by using this influence in determining the outcome of MegaDoge DAO rulings, with a few exceptions.
+The creator of MegaDoge will abstain from voting in MegaDoge DAO governance functions with the exception of urgent issues involving integrity and security of the project. The creator will step-in anytime projects drift away from benefitting MegaDoge.Org users (or charity) in favor of rival systems or irrelevant and competing systems that would forsake MegaDoge holders. It is essential that the DAO functions according to the needs of holders and it is required that it serves in their best interest. Since MegaDoge primary aim is decentralization and outsourcing all tasks and control to our grass-roots community, the integration of competing systems may be permissible if it is shown that doing so would benefit MegaDoge stake holders more than not.
+The DAO is censorship resistant and permissionless by design. Although it is censorship resistant as a human right and to eliminate bias, compliance to law may require some content to be rendered inaccessible from the primary interface.
+
+    • USA citizens are not allowed to purchase or invest in MegaDoge.Org 
+    • USA citizens may purchase prophecycoin.crypto (requires user maintenance and upkeep) and tokenology.blockchain (when available). Others coming soon.
+    • USA citizens MAY purchase sub-project tokens, which are gamified tokens that require active participation, (how much you earn depends on your own work and ability)
+    • USA citizens MAY purchase, use, resell, and upgrade MegaDoge NFTs.
+      
+	I am truly sorry that I must omit USA investors. If you feel unhappy about this, perhaps you should call a supportive politician and explain how crypto-regulations are literally holding back the entire world and crippling an exciting revolution in personal finance and freedom. Cryptocurrency is the natural progression of the open-source movement. Money and finance is now open-source, and sometimes even free with promotional airdrops (seed capital for the masses). Never before in history have we been able to coordinate trading activities across the globe with such perfection and ease. Existing policies are obsolete and were created long before computers, cell phones, the internet, television, and the blockchain ever existed. In fact, people still relied on the horse and buggy to get around, the interstate did not exist, and tiny prop air planes were used only in WW1. They did not have the technological means to transparently prove ownership and prove all outstanding details, possibilities, and limits of a smart contract. They could not automatically enforce anything. With the invention of the Smart Contract, source code is law. Unlike in CeFi (Centralized Finance), this law is enforced flawlessly, 100% of the time by computers. There is no room for cheating (deviating from the programmable law). Perhaps that is why it is opposed so heavily by the elite? Most cheating in CeFi is unpunished. When regulation is enforced, it almost always hurts the retail investors, contrary to everything that justified it’s existence in the first place. When it is applied to DeFi (Decentralized Finance), it exclusively harms all but the true culprits of all fraud and cheating in finance. Of course, retail investors are ALWAYS hurt the most when their holding is the target of regulatory enforcement in the stock market, CeFi, or DeFi. Regulators don’t care. To them it is free money, a piggy-bank they can rob while framing innovators as con-artists. DeFi and crypto has been made into a catch-all scape-goat by BoomerFi and CeFi, an easy target blamed for all the largess of the hyper-inflationary money printers and spenders in power.
+	Regulations were only meant for CeFi and the stock market. Now they only serve to create massive, artificial barriers to entry that favors dominant, ultra-wealthy elites, who obviously do not care about you or me. 
+	The long term outlook of crypto-regulations, CeFi and CBDCs, isn’t great. To be honest, it’s like we are to build our own cattle-cars and slaughterhouses, and even pay for the trip there, complete with virtue signaling Judas goats leading the way. It is a fact that the same year Adolf Hitler rose to power, the SEC was created (1933). What good is money if they control every aspect of how you use it? CBDCs can be hyper-inflated, seized, censored (sanctions placed on individual people), frozen, totally tracked with full identity attached, and even deleted on a whim by centralized groups; it is not real money.
+	To be fair, there are a lot of scams in crypto. The difference is that an informed investor can safely avoid nearly 100% of all bad crypto by looking at the source code, or having someone else do it for them. In CeFi, it is literally impossible to avoid most scams because users have absolutely no control and there is no transparency guaranteed. Transactions require permission. If it doesn’t benefit them the most or they don’t like a transaction, there is nothing you can do about it. DeFi is permissionless. Everything in CeFi is mutable and can change on a whim. This is impossible in immutable DeFi. CeFi can simply cheat and change the rules however they want to rip you off. So you finally made a profit with your online store/business account? Nope, you receive a letter saying they are ‘investigating suspicious transactions’ involving your account (cheap lie, profit = suspicous), ‘and have decided to freeze your account’. This has literally happened to me and everyone I know 100% of the time when we have used credit card processing services or the most popular payment apps of CeFi to sell anything ever. CeFi is DumbFi. CeFi stands out in it’s ability to rig everything against you. It might as well be called RiggedFi, because it is all rigged.
+
+Long Live Crypto
+
+Disclaimer: 
+	The information contained within this document does not constitute financial advice, investment advice, trading advice, or any form of professional advice. Please perform your own due diligence when considering what to do with your money. When making any important financial decision, it is recommended that you consult a professional investment adviser or financial advisor. By purchasing MegaDoge.Org tokens or related syndicate tokens, you agree that you are not purchasing a security or investment. The tokens do not represent a promise or contract to profit the holder at a later date. It cannot be expected that any customer will make a profit solely off the effort of others, but must do their own research and skillfully act with prudent judgement. MegaDoge.Org is not a corporation and it is not a company. It does not have employees and it is not a business. MegaDoge is something that you may buy and freely resell, the rate at which you obtain is entirely up to you. Different platforms offer different rates and the amount people are willing to pay differs from one person to another. It is the responsibility of the user to pay any relevant tax that applies to themselves. 
+	This paper has referenced various groups and has used logos of unaffiliated groups. The use of these quotes and logos DOES NOT imply that they endorse the project, or that they are involved in the project, or that they are affiliated. They seemed to be a perfect fit for this paper, so I referenced them.
+	I apologize for any changes or inconsistencies in the paper, community commentary, website, or project. Crypto is rapidly evolving and the underlying technology is too. At the time of writing this, the wider, global economy is facing significant instability and change. Policies and regulations also greatly impact whether or not anything mentioned in this paper will change. Nothing mentioned in the paper is guaranteed to be implemented, although I intend to implement them.
+	MegaDoge.Org is founded upon layer-2 blockchain technology. That being the case, it implies the user has an advanced understanding of the associated technology and is well-versed in the spectrum of knowledge that encompasses the domain. Layer-2 is considered an advanced position, built on top of an already advanced layer-1 technology. It is virtually impossible for a user to obtain MegaDoge.Org for money without being a sophisticated, intelligent, and reasonably educated individual. Users may always be gifted MegaDoge.Org, but even the capacity to receive such a gift implies an advanced status or advanced support for the individual recipient. No purchase or investment is ever necessary to obtain MegaDoge. While MegaDoge.Org is never directly sold for money, it may be traded for items that were purchased with money. It is intended to be used to assist barter-and-trade deals where the individual possessor alone determines how much their tokens are worth. Given the recent crises of inflation, MegaDoge was designed to fight inflation by having a static supply forever, and with tokens built on top of MegaDoge that have built-in deflationary mechanisms that aim to reward all who save and hold, empowering them to have the most influence in their transactions. It is also intended to behave as a commodity, such as gold or oil, that is inherently desired for its properties, useful and consumable in some regards, but also serve as a medium to store value.
+This paper was designed to generate enthusiasm for the project and to help the project progress. It was not designed to recruit retail investors with an unrealistic promise of profit. No support will be provided that would ensure a profit, nor will any privileged information be given. By purchasing MegaDoge.Org tokens or related syndicate tokens you agree to defend, indemnify, and hold harmless any participating team, individual, community, group, developer, creator, syndicate, including but not limited to, the creator and original founder of MegaDoge.Org, and any major stake holder. 
+	You should have no expectations of any kind whatsoever of the above-named entities. You agree to not hold them liable for any losses or problems of any kind resulting in the use of MegaDoge.Org or related products. You further agree that the products are provided ‘as is’ and the above-named entities cannot and should not be expected to provide customer support, technical support, or even to maintain anything indefinitely. You agree to abide by all laws and regulations relevant to you in connection with MegaDoge.Org. 
+
+
+Best Wishes,
+Saint Shiba
+MegaDoge.Org
+
+
+
+
+
+
+Image Credits:
+
+Artists
+    • Dogelina
+    • upklyak
+    • catalyststuff
+    • me
+
+Sites
+    • freepik
+    • pixabay
+    • MegaDoge.Org

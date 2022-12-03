@@ -1,0 +1,233 @@
+<html>
+ <head>
+ 	<style type="text/css">
+ 		body{
+ 		 	font-family: Tahoma, Geneva, sans-serif;
+ 			margin:0;
+ 			padding:0px;
+ 			min-height:2900px;
+ 			width:1400px;
+	 		background-color: rgba(0,0,55,.85);
+	 		font-weight:bold;
+	 		color:white;
+ 		}
+ 		
+ 		h1{
+ 			position:relative;
+ 			left:25px;
+ 			color: lightblue;/*#FFC107;*/
+ 			text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;
+ 		}
+ 		
+ 		ul{
+ 			position:relative;
+ 			top:2px;
+ 			list-style-type:none;
+ 			passing:0px;
+ 			font-size:1.3em;
+			text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+ 		}
+ 		li:hover{
+	 		background-color: rgba(255,0,255,.75);
+ 			color:black;
+ 			text-shadow:none; 			
+ 		}
+ 		
+ 		li{
+ 			line-height:2.4em;
+ 			color:white;
+ 		}
+ 		ul li:before
+		{
+	    		content: '\1F3AE';
+	    		font-size:1em;
+			margin: 0 1em;    /* any design */
+		}
+		ul li:hover:before{
+
+			content: '\1F3B2';
+		}
+		
+		
+		#details2 ul li:before
+		{
+	    		content: '\1F3B2';
+	    		font-size:1em;
+			margin: 0 1em;    /* any design */
+		}
+				
+		#centered{
+			margin-left:auto;
+			margin-right:auto;
+			width:1200px;
+			min-height:2220px;
+			background-color:rgba(100,0,100,.85);
+		}
+		
+		#details{
+			position:absolute;
+			top:20px;
+			left:570px;
+			width:600px;
+			padding:15px;
+		}
+
+		#details2{
+			position:absolute;
+			top:425px;
+			left:50px;
+			width:550px;
+		}
+		
+		#details3{
+			position:absolute;
+			top:750px;
+			left:615px;
+			width:600px;		
+		}
+		
+		#details3 ul li:before
+		{
+	    		content: '\1F47E';
+	    		font-size:1em;
+			margin: 0 1em;    /* any design */
+		}
+		
+		#overview1{
+			position:absolute;
+			top:115px;
+			left:50px;
+			width:550px;
+			height:320px;
+		}
+		
+		#overview2{
+			position:absolute;
+			top: 500px;
+			left:650px;
+			width:500px;
+		}
+		#overview3{
+			position:absolute;
+			top:800px;
+			left:50px;
+			width:550px;
+		}
+		#home{
+			position:absolute;
+			left:50px;
+			top:35px;
+			text-shadow: -2px -2px 0 lightblue, 2px -2px 0 lightblue, -2px 2px 0 lightblue, 2px 2px 0 lightblue;
+		}
+		#home a{
+			color:purple;
+			text-decoration:none;
+			font-size:3em;
+		}
+		#home a:hover{
+			color:orange;
+			text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+		}
+		.shadow {
+			color: white;
+			text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+		}
+		ul li a{
+			color:lightblue;
+		}
+		ul li:hover a{
+			color:blue;
+		}
+		
+		#restOfContent{
+			position:absolute;
+			top:1100px;
+			left:300px;
+		}
+		
+		.bottomContent {
+			width:500px;
+			margin:50px;
+		}
+ 	</style>
+ 	
+ </head>
+
+	<body>
+		<div id="centered">
+			<span id="home"><a href="https://megadoge.org">MegaDoge.Org</a></span>
+			<br /><br /><br /><br /><br />
+			
+			<video controls id="overview1">
+			  <source src="game/compressedAnimations/over-view-1.mp4" type="video/mp4" >
+			  <!-- <source src="movie.ogg" type="video/ogg"> -->
+			  Your browser does not support the video tag.
+			</video>
+		
+
+			<video controls id="overview2">
+			  <source src="game/compressedAnimations/game2.mp4" type="video/mp4" >
+			  <!-- <source src="movie.ogg" type="video/ogg"> -->
+			  Your browser does not support the video tag.
+			</video>
+			
+			
+			<video controls id="overview3">
+			  <source src="game/compressedAnimations/game1.mp4" type="video/mp4" >
+			  <!-- <source src="movie.ogg" type="video/ogg"> -->
+			  Your browser does not support the video tag.
+			</video>
+
+			
+			<div id="details">
+				<h1>New! GameFi!!</h1>
+				<ul>
+					<li>Game Preview</li>
+					<li><span style="font-weight:bold;">Potential</span> Game in Development</li>
+					<li>Project Status: Pending</li>
+					<li>Would Get Own Token</li>
+					<li>Would AirDrop for MegaDoge holders</li>
+					<li>Should we make this game?</li>
+
+				</ul>
+			</div>
+			
+			<div id="details2">
+				<h1>Details</h1>
+				<ul>
+					<li>Game would contain RPG elements</li>
+					<li>2D game play</li>
+					<li>Level up, find, and buy items</li>
+					<li>Users may make own levels, characters</li>
+					<li>May be exportable as NFTs</li>
+				</ul>
+			
+			</div>
+			
+			
+			<div id="details3">
+				<h1>Background</h1>
+				<ul>
+					<li>Game pitched by MegaDoge user</li>
+					<li>Game art by Dogelina</li>
+					<li>Art may change</li>
+					<li>May support sub-games in the main game</li>
+				</ul>
+				
+			<a href="tokenomics.html" target="main" style="font-size:2em;color:white;position:relative;left:350px;">Next &#187;</a>			
+			</div>
+			
+			
+			<div id="restOfContent">
+				<video controls class="bottomContent">
+				  <source src="game/compressedAnimations/poopi.mp4" type="video/mp4" >
+				  <!-- <source src="movie.ogg" type="video/ogg"> -->
+				  Your browser does not support the video tag.
+				</video>
+			</div>
+			
+			
+			<a href="tokenomics.html" target="main" style="font-size:2em;color:white;position:relative;bottom:40px;left:875px;">Next &#187;</a>
+		</div>
+	</body>
+</html>
